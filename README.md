@@ -2,7 +2,7 @@
 
 ##### Under construction 🚧
 
-A new challenge from [Frontend Mentor] (https://www.frontendmentor.io/home) I
+A new challenge from [Frontend Mentor] (https://www.frontendmentor.io/home) 
 
 ### The challenge
 
@@ -19,3 +19,12 @@ Users should be able to:
 - Css custom properties
 - Flexbox
 - Mobile-first workflow
+
+
+
+## Author
+
+- Website - [Daniela](https://www.danielacueto.com)
+- Frontend Mentor - [@DanielaCueto](https://www.frontendmentor.io/profile/DanielaCueto)
+- Twitter - [@DaniCuetoN](https://www.twitter.com/DaniCuetoN)
+
